@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5FB404</color>
+    <color name="colorPrimaryDark">#74a443</color>
+    <color name="colorAccent">#bdec2626</color>
+
+    <color name="colorPrimaryTrans">#bc465e2b</color>
+    <color name="colorAccentTrans">#bc465e2b</color>
+    <color name="colorBlackTrans">#a0000000</color>
+    <color name="tab">#B5CFDA</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="sign_in_up_bacround">#995fb404</color>
+    <color name="sign_in_up">#865fb404</color>
+
+    <!-- Screens background -->
+    <color name="bg_screen">#5FB404</color>
+    <color name="details_recipe">#865fb404</color>
+
+
+    <!-- dots active colors -->
+    <color name="dot_active">#000000</color>
+
+
+    <!-- dots inactive colors -->
+    <color name="dot_inactive">#cccccc</color>
+</resources>

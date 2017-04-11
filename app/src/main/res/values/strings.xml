@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start">Start</string>
+    <string name="title_slide1">প্লেইন </string>
+    <string name="desc_slide1">সারা বিশ্বে সবচেয়ে জনপ্রিয় বা সর্বপরিচিত যে ডেজার্ট সেটা সম্ভবত কেক</string>
+    <string name="title_slide2">ম্যাংগো চিজ </string>
+    <string name="desc_slide2">ম্যাংগো চিজকেকে রয়েছে আম ও পরিনের স্বাদ ও পাকা আমের ফ্লেভার</string>
+    <string name="title_slide3">পেপার স্টেক</string>
+    <string name="desc_slide3">বিভিন্ন রকম বিফ স্টেক রয়েছে; তার মধ্যেই একটি বিফ পেপার স্টেক।</string>
+
+    <string name="app_name">রেসিপি</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_recipe_details">Recipe_details</string>
+    <string name="recipe_name">রেসিপি নাম </string>
+
+
+
+
+
+    <string name="recipe_des">রেসিপি বননা</string>
+    <string name="recipe_categori">রেসিপি আইটেম</string>
+    <string name="recipe_upokon">রেসিপি উপকরন</string>
+    <string name="recipe_time">রেসিপি সময়</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
